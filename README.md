@@ -10,20 +10,22 @@
 
 ---
 ### 最近更新
-
 | 精选文章 | 时间 | 作者 | 来源 |
 |----|----------|-----------|------|
-|🆕[NLP 技术在微博 feed 流中的应用](https://mp.weixin.qq.com/s/T2Nv7dQvZR6sVht1LfKSlw)  | 2019.12.27 |  董兴华 |  微信公众号
-|🆕[推荐系统之数据与特征工程](https://mp.weixin.qq.com/s/x4jBz4eJCyexY5c15X92Aw)  | 2019.12.25 |   gongyouliu | 微信公众号
-|🆕[推荐场景中召回模型的演化过程](https://mp.weixin.qq.com/s/Y4g2T6qMGzCcE67bINPiGA)  | 2019.12.24 |  Alex-zhai |  微信公众号
-|🆕[阿里妈妈点击率预估中的长期兴趣建模](https://mp.weixin.qq.com/s/RQ1iBs8ftvNR0_xB7X8Erg)  | 2019.12.18 | 阿里妈妈定向技术 | 微信公众号
-|🆕[深度学习在美图个性化推荐的应用实践](https://zhuanlan.zhihu.com/p/87466510)  | 2019.12.06 | 陈文强 |  知乎
+|🆕[特征工程完全手册 - 从预处理、构造、选择、降维、不平衡处理，到放弃](https://zhuanlan.zhihu.com/p/94994902)  | 2020.01.03 | 一两赘肉无 | 知乎
+|🆕[Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s/MAfK4B2F8sPXRLodXkwnmw) |  2020.01.03 | 方宽 |  微信公众号
+|🆕[字节跳动 EB 级 HDFS 实践](https://mp.weixin.qq.com/s/liiplasFnFW0ezc3VWsOHA)  | 2019.12.31 | 字节跳动技术团队 | 微信公众号
+|🆕[多任务学习在推荐算法中的应用](https://mp.weixin.qq.com/s/-SHLp26oGDDp9HG-23cetg)  | 2019.12.30 |   Alex-zhai |  微信公众号
+
 
 
 ### 文章列表
-
 | 精选文章 | 时间 | 作者 | 来源 |
 |----|----------|-----------|------|
+|[特征工程完全手册 - 从预处理、构造、选择、降维、不平衡处理，到放弃](https://zhuanlan.zhihu.com/p/94994902)  | 2020.01.03 | 一两赘肉无 | 知乎
+|[Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s/MAfK4B2F8sPXRLodXkwnmw) |  2020.01.03 | 方宽 |  微信公众号
+|[字节跳动 EB 级 HDFS 实践](https://mp.weixin.qq.com/s/liiplasFnFW0ezc3VWsOHA)  | 2019.12.31 | 字节跳动技术团队 | 微信公众号
+|[多任务学习在推荐算法中的应用](https://mp.weixin.qq.com/s/-SHLp26oGDDp9HG-23cetg)  | 2019.12.30 |   Alex-zhai |  微信公众号
 |[NLP 技术在微博 feed 流中的应用](https://mp.weixin.qq.com/s/T2Nv7dQvZR6sVht1LfKSlw)  | 2019.12.27 |  董兴华 |  微信公众号
 |[推荐系统之数据与特征工程](https://mp.weixin.qq.com/s/x4jBz4eJCyexY5c15X92Aw)  | 2019.12.25 |   gongyouliu | 微信公众号
 |[推荐场景中召回模型的演化过程](https://mp.weixin.qq.com/s/Y4g2T6qMGzCcE67bINPiGA)  | 2019.12.24 |  Alex-zhai |  微信公众号
