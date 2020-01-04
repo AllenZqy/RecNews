@@ -12,7 +12,7 @@
 ### 最近更新
 | 精选文章 | 时间 | 作者 | 来源 |
 |----|----------|-----------|------|
-|🆕[特征工程完全手册 - 从预处理、构造、选择、降维、不平衡处理，到放弃](https://zhuanlan.zhihu.com/p/94994902)  | 2020.01.03 | 一两赘肉无 | 知乎
+|🆕[特征工程完全手册](https://zhuanlan.zhihu.com/p/94994902)  | 2020.01.03 | 一两赘肉无 | 知乎
 |🆕[Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s/MAfK4B2F8sPXRLodXkwnmw) |  2020.01.03 | 方宽 |  微信公众号
 |🆕[字节跳动 EB 级 HDFS 实践](https://mp.weixin.qq.com/s/liiplasFnFW0ezc3VWsOHA)  | 2019.12.31 | 字节跳动技术团队 | 微信公众号
 |🆕[多任务学习在推荐算法中的应用](https://mp.weixin.qq.com/s/-SHLp26oGDDp9HG-23cetg)  | 2019.12.30 |   Alex-zhai |  微信公众号
@@ -22,7 +22,7 @@
 ### 文章列表
 | 精选文章 | 时间 | 作者 | 来源 |
 |----|----------|-----------|------|
-|[特征工程完全手册 - 从预处理、构造、选择、降维、不平衡处理，到放弃](https://zhuanlan.zhihu.com/p/94994902)  | 2020.01.03 | 一两赘肉无 | 知乎
+|[特征工程完全手册](https://zhuanlan.zhihu.com/p/94994902)  | 2020.01.03 | 一两赘肉无 | 知乎
 |[Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s/MAfK4B2F8sPXRLodXkwnmw) |  2020.01.03 | 方宽 |  微信公众号
 |[字节跳动 EB 级 HDFS 实践](https://mp.weixin.qq.com/s/liiplasFnFW0ezc3VWsOHA)  | 2019.12.31 | 字节跳动技术团队 | 微信公众号
 |[多任务学习在推荐算法中的应用](https://mp.weixin.qq.com/s/-SHLp26oGDDp9HG-23cetg)  | 2019.12.30 |   Alex-zhai |  微信公众号
