@@ -12,16 +12,24 @@
 ### 最近更新
 | 精选文章 | 时间 | 作者 | 来源 |
 |----|----------|-----------|------|
-|🆕[特征工程完全手册](https://zhuanlan.zhihu.com/p/94994902)  | 2020.01.03 | 一两赘肉无 | 知乎
-|🆕[Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s/MAfK4B2F8sPXRLodXkwnmw) |  2020.01.03 | 方宽 |  微信公众号
-|🆕[字节跳动 EB 级 HDFS 实践](https://mp.weixin.qq.com/s/liiplasFnFW0ezc3VWsOHA)  | 2019.12.31 | 字节跳动技术团队 | 微信公众号
-|🆕[多任务学习在推荐算法中的应用](https://mp.weixin.qq.com/s/-SHLp26oGDDp9HG-23cetg)  | 2019.12.30 |   Alex-zhai |  微信公众号
-
-
+|🆕[EdgeRec：​揭秘边缘计算在淘宝推荐系统的重要实践](https://mp.weixin.qq.com/s/44wHo2beHKWD4kklMkU2Tg)  | 2020.01.09 | 凛至 | 微信公众号
+|🆕[从零开始构建企业级推荐系统](https://mp.weixin.qq.com/s/YkABleB5hlHt_Zn6M6DgBw) |  2020.01.08 | gongyouliu |  微信公众号
+|🆕[阿里淘外商业化广告工程架构实践](https://mp.weixin.qq.com/s/V7_I2QzEDGbQ9tYIxidUbw)  | 2020.01.08 | 项铮 | 微信公众号
+|🆕[机器学习在微博 O 系列广告中的应用](https://mp.weixin.qq.com/s/t7LYfItthkszzvRp6opG5w)  | 2019.01.06 |   张克丰 |  微信公众号
+|🆕[一种全新的点击率建模方案](https://zhuanlan.zhihu.com/p/101319401)  | 2019.01.06 |   腾讯技术工程 |  知乎
+|🆕[推荐系统中的深度匹配模型](https://zhuanlan.zhihu.com/p/101136699)  | 2019.01.06 |   辛俊波 |  知乎
+|🆕[不仅仅用CTR：通过人工评估得到更好的推荐](https://mp.weixin.qq.com/s/kYEML_zBg73CrySQSPFrhA)  | 2019.01.06 |   ronghuaiyang |  微信公众号
 
 ### 文章列表
 | 精选文章 | 时间 | 作者 | 来源 |
 |----|----------|-----------|------|
+|[EdgeRec：​揭秘边缘计算在淘宝推荐系统的重要实践](https://mp.weixin.qq.com/s/44wHo2beHKWD4kklMkU2Tg)  | 2020.01.09 | 凛至 | 微信公众号
+|[从零开始构建企业级推荐系统](https://mp.weixin.qq.com/s/YkABleB5hlHt_Zn6M6DgBw) |  2020.01.08 | gongyouliu |  微信公众号
+|[阿里淘外商业化广告工程架构实践](https://mp.weixin.qq.com/s/V7_I2QzEDGbQ9tYIxidUbw)  | 2020.01.08 | 项铮 | 微信公众号
+|[机器学习在微博 O 系列广告中的应用](https://mp.weixin.qq.com/s/t7LYfItthkszzvRp6opG5w)  | 2019.01.06 |   张克丰 |  微信公众号
+|[一种全新的点击率建模方案](https://zhuanlan.zhihu.com/p/101319401)  | 2019.01.06 |   腾讯技术工程 |  知乎
+|[推荐系统中的深度匹配模型](https://zhuanlan.zhihu.com/p/101136699)  | 2019.01.06 |   辛俊波 |  知乎
+|[不仅仅用CTR：通过人工评估得到更好的推荐](https://mp.weixin.qq.com/s/kYEML_zBg73CrySQSPFrhA)  | 2019.01.06 |   ronghuaiyang |  微信公众号
 |[特征工程完全手册](https://zhuanlan.zhihu.com/p/94994902)  | 2020.01.03 | 一两赘肉无 | 知乎
 |[Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s/MAfK4B2F8sPXRLodXkwnmw) |  2020.01.03 | 方宽 |  微信公众号
 |[字节跳动 EB 级 HDFS 实践](https://mp.weixin.qq.com/s/liiplasFnFW0ezc3VWsOHA)  | 2019.12.31 | 字节跳动技术团队 | 微信公众号
